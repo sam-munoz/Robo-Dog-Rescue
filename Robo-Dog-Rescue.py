@@ -748,8 +748,8 @@ def level(level):
 
 # Fields needed for running program
 running = True
-# state = 'START'
-state = 'TUTORIAL'
+state = 'START'
+# state = 'TUTORIAL'
 # state = 'LEVEL1'
 # state = 'LEVEL2'
 # state = 'LEVEL3'
